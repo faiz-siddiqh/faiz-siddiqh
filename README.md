@@ -7,7 +7,7 @@ Software Development Engineer \[Automation\]
 *   🌍  I'm based in Bengaluru
 *   ✉️  You can contact me at [kfasid@tutanota.com](mailto:kfasid@tutanota.com)
 *   🧠  I'm learning Mobile Automation using Appium ,DataStructures and Algorithms ,System Design
-*   🤝  I'm open to collaborating on Building Scalable Automation Frameworks and tools for UI , API and databases
+*   🤝  I'm open to collaborating on Building Scalable Automation Frameworks and tools for UI , API ,Mobile and databases
 
 ### Skills
 
