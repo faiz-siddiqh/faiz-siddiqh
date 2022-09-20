@@ -1,7 +1,7 @@
 Hi 👋 My name is Faiz Ahmed Siddiqh K
 =====================================
 
-Software Development Engineer \[Automation\]
+Software Development Engineer - Test \[Automation\]
 --------------------------------------------
 
 *   🌍  I'm based in Bengaluru
