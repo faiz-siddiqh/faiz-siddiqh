@@ -6,8 +6,8 @@ Software Development Engineer - Test \[Automation\]
 
 *   🌍  I'm based in Bengaluru
 *   ✉️  You can contact me at [kfasid@tutanota.com](mailto:kfasid@tutanota.com)
-*   🧠  I'm learning Mobile Automation using Appium ,DataStructures and Algorithms ,System Design
-*   🤝  I'm open to collaborating on Building Scalable Automation Frameworks and tools for UI , API ,Mobile and databases
+*   🧠  I'm learning building apps and Automation tools using AI tools [LLMs], Problem Solving using Data Structures and Algorithms, System Design
+*   🤝  I'm also open to collaborating on Building Scalable Automation Frameworks and tools .
 
 ### Skills
 
